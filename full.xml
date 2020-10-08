@@ -265,5 +265,6 @@
 
   <project remote="fydeos" name="overlay-amd64-anbox-generic" path="src/overlays/overlay-amd64-anbox-generic" revision="refs/heads/r83" />
   <project remote="fydeos" name="project-archero" path="src/overlays/project-archero" revision="refs/heads/r83" />
+  <project remote="fydeos" name="anbox_fydeos" path="src/third_party/anbox" revision="refs/heads/master" />
 
 </manifest>
